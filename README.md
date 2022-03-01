@@ -1,3 +1,5 @@
 # Example Repository
 
-This is a samplem repo, hello world!
+This is a samplem repo, What's up!
+
+This is the second change
